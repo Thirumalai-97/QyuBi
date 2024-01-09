@@ -1,49 +1,49 @@
 ---
 # Display name
-title: 吳健雄
+title: Thiru
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Thirumalai
+last_name: M
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Student at Indian Institute of Technology
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
-
+  - name: Indian Institute of Technology, Jodhpur
+    url: https://www.iitj.ac.in
+    
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests lies on quantum machine learning and quantum crpytography.
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:thirumalai11049761@gmail.com'
     label: E-mail Me
-  - icon: brands/x
+ # - icon: brands/x
     url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/thiru_malai_m/
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
+    url: https://www.linkedin.com/in/m-thirumalai/
+  # Link to a PDF of your resume/CV - upload it to `https://drive.google.com/file/d/1GHd6uhHNWwRwuGVUxRyHjMYIy3KeBMgQ/view?usp=share_link`
   - icon: academicons/cv
     url: uploads/resume.pdf
     label: Download my resume
-  - icon: rss
+  # - icon: rss
     url: ./post/index.xml
     label: Subscribe to my blog via RSS feed
 
@@ -54,6 +54,4 @@ highlight_name: true
 website: ""
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
-distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
-self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Thirumalai is currently pursuing his masters in quantum technologies at indian institute of technology. His specialization is in quantum computing. Currently he is looking for colloboration in the field of quantum machine learning, quantum crpytography and quantum optimization. He also plays acoustic guitar.
